@@ -1,0 +1,11 @@
+H:\Repository\ThirdPartyDemo\bin\Debug\netcoreapp2.1\ThirdPartyDemo.deps.json
+H:\Repository\ThirdPartyDemo\bin\Debug\netcoreapp2.1\ThirdPartyDemo.runtimeconfig.json
+H:\Repository\ThirdPartyDemo\bin\Debug\netcoreapp2.1\ThirdPartyDemo.runtimeconfig.dev.json
+H:\Repository\ThirdPartyDemo\bin\Debug\netcoreapp2.1\ThirdPartyDemo.dll
+H:\Repository\ThirdPartyDemo\bin\Debug\netcoreapp2.1\ThirdPartyDemo.pdb
+H:\Repository\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.csprojAssemblyReference.cache
+H:\Repository\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.csproj.CoreCompileInputs.cache
+H:\Repository\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.AssemblyInfoInputs.cache
+H:\Repository\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.AssemblyInfo.cs
+H:\Repository\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.dll
+H:\Repository\ThirdPartyDemo\obj\Debug\netcoreapp2.1\ThirdPartyDemo.pdb
